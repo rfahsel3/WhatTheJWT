@@ -2,7 +2,7 @@
   "name": "whatthejwt",
   "displayName": "WhatTheJWT",
   "description": "Quickly translate Base64 encoded JWTs to their readable versions.",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "FirewireFahsel",
   "engines": {
     "vscode": "^1.28.0"
