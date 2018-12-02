@@ -1,4 +1,4 @@
-# generateuuid README
+# WhatTheJWT README
 
 A simple Visual Studio Code extension to translate Base64 encoded JWTs into their human-readable claims. 
 
